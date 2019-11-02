@@ -1,0 +1,4 @@
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\03_BlockCADImport\03.3_BlockCADImport_End\bin\Debug\BlockCADImport.dll
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\03_BlockCADImport\03.3_BlockCADImport_End\bin\Debug\BlockCADImport.pdb
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\03_BlockCADImport\03.3_BlockCADImport_End\obj\Debug\BlockCADImport.dll
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\03_BlockCADImport\03.3_BlockCADImport_End\obj\Debug\BlockCADImport.pdb

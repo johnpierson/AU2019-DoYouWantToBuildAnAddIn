@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command BlockCADImport</Text>
+    <Description>Some description for BlockCADImport</Description>
+    <Assembly>BlockCADImport.dll</Assembly>
+    <FullClassName>BlockCADImport.Command</FullClassName>
+    <ClientId>795fe442-c86f-4767-8ffe-3fed7c3d47a4</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application BlockCADImport</Name>
+    <Assembly>BlockCADImport.dll</Assembly>
+    <FullClassName>BlockCADImport.App</FullClassName>
+    <ClientId>5db0cc20-779a-42ba-bade-a533a5388803</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
