@@ -1,7 +1,7 @@
 ![Image](_resources/Images/homeImage.png)
 
 # Where am I?
-This repo contains the files for the presentation, _*"Do You Want to Build an Add-in"*_ that will be demonstrated at [Autodesk University 2019](https://autodeskuniversity.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=226472&tclass=popup#.W9dyOlNZ3_Q.twitter). Since this presentation is about getting started with Revit add-ins, it seemed fitting to build it using version control.
+This repo contains the files for the presentation, _*"Do You Want to Build an Add-in"*_ that will be demonstrated at [Autodesk University 2019](https://autodeskuniversity.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=319568&tclass=popup#.Xb3Qubqa2wA). Since this presentation is about getting started with Revit add-ins, it seemed fitting to build it using version control.
 
 # Who?
 Presenter - John Pierson of [ParallaxTeam](http://www.parallaxteam.com/) and [sixtysecondrevit.com](http://sixtysecondrevit.com/).
