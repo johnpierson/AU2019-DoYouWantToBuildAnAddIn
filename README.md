@@ -1,4 +1,4 @@
-![Image](_resources/Images/homeImage.png)
+![Image](_resources/Images/homeImage.jpg)
 
 # Where am I?
 This repo contains the files for the presentation, _*"Do You Want to Build an Add-in"*_ that will be demonstrated at [Autodesk University 2019](https://autodeskuniversity.smarteventscloud.com/connect/sessionDetail.ww?SESSION_ID=319568&tclass=popup#.Xb3Qubqa2wA). Since this presentation is about getting started with Revit add-ins, it seemed fitting to build it using version control.
