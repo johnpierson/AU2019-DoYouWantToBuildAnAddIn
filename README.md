@@ -14,7 +14,7 @@ Presenter - John Pierson of [ParallaxTeam](http://www.parallaxteam.com/) and [si
 | -------- | ----------- |
 | [Presentation-Videos](https://github.com/johnpierson/AU2019-DoYouWantToBuildAnAddIn/tree/master/Presentation-Videos) | This directory contains demo videos of the workflows outlined in this presentation. |
 | [Presentation](https://github.com/johnpierson/AU2019-DoYouWantToBuildAnAddIn/tree/master/Presentation) | The handout and slide deck from the presentation. |
-| [Sample Files](https://github.com/johnpierson/AU2019-DoYouWantToBuildAnAddIn/tree/master/SampleFiles) | The sample files. |
+| [Data-Set](https://github.com/johnpierson/AU2019-DoYouWantToBuildAnAddIn/tree/master/Dataset) | The hands-on-lab data-set. |
 | [resources](https://github.com/johnpierson/AU2019-DoYouWantToBuildAnAddIn/tree/master/_resources) | My resources for the presentation. |
 | [LICENSE](https://github.com/johnpierson/AU2019-DoYouWantToBuildAnAddIn/blob/master/LICENSE) | This is the important part. Basically you cannot sell this presentation. 😆 | 
 
