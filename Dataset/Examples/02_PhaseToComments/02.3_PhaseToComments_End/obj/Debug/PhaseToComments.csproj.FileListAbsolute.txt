@@ -1,0 +1,4 @@
+C:\Users\JohnPierson\source\repos\PhaseToComments\bin\Debug\PhaseToComments.dll
+C:\Users\JohnPierson\source\repos\PhaseToComments\bin\Debug\PhaseToComments.pdb
+C:\Users\JohnPierson\source\repos\PhaseToComments\obj\Debug\PhaseToComments.dll
+C:\Users\JohnPierson\source\repos\PhaseToComments\obj\Debug\PhaseToComments.pdb

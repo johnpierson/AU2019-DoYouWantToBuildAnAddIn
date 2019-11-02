@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command HelloWorld</Text>
+    <Description>Some description for HelloWorld</Description>
+    <Assembly>HelloWorld.dll</Assembly>
+    <FullClassName>HelloWorld.Command</FullClassName>
+    <ClientId>1910888d-5b39-4031-a4d8-f1c7751efdf0</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application HelloWorld</Name>
+    <Assembly>HelloWorld.dll</Assembly>
+    <FullClassName>HelloWorld.App</FullClassName>
+    <ClientId>27d21f47-4abf-429d-9ec5-8ffcd08d2d2b</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

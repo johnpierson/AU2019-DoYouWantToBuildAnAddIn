@@ -1,0 +1,5 @@
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\02_PhaseToComments\02.2_PhaseToComments_Middle\bin\Debug\PhaseToComments.dll
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\02_PhaseToComments\02.2_PhaseToComments_Middle\bin\Debug\PhaseToComments.pdb
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\02_PhaseToComments\02.2_PhaseToComments_Middle\obj\Debug\PhaseToComments.csprojAssemblyReference.cache
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\02_PhaseToComments\02.2_PhaseToComments_Middle\obj\Debug\PhaseToComments.dll
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\02_PhaseToComments\02.2_PhaseToComments_Middle\obj\Debug\PhaseToComments.pdb

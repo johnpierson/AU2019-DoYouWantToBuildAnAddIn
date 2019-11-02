@@ -1,0 +1,11 @@
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\01_HelloWorld_Catchup\HelloWorld\bin\Debug\HelloWorld.dll
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\01_HelloWorld_Catchup\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\01_HelloWorld_Catchup\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\01_HelloWorld_Catchup\HelloWorld\obj\Debug\HelloWorld.dll
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\01_HelloWorld_Catchup\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\01.3_HelloWorld_End\bin\Debug\HelloWorld.dll
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\01.3_HelloWorld_End\bin\Debug\HelloWorld.pdb
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\01.3_HelloWorld_End\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\01.3_HelloWorld_End\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\01.3_HelloWorld_End\obj\Debug\HelloWorld.dll
+D:\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\Dataset\Examples\01.3_HelloWorld_End\obj\Debug\HelloWorld.pdb

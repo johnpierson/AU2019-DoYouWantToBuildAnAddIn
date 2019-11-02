@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command PhaseToComments</Text>
+    <Description>Some description for PhaseToComments</Description>
+    <Assembly>PhaseToComments.dll</Assembly>
+    <FullClassName>PhaseToComments.Command</FullClassName>
+    <ClientId>de9abab0-0067-4db1-be58-204fa29c82e2</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application PhaseToComments</Name>
+    <Assembly>PhaseToComments.dll</Assembly>
+    <FullClassName>PhaseToComments.App</FullClassName>
+    <ClientId>8c8c4eff-2db4-41d7-aa00-b176773f6e17</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
