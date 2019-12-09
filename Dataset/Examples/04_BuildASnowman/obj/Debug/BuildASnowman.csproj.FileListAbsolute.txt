@@ -1,0 +1,11 @@
+C:\Users\JohnPierson\source\repos\BuildASnowman\obj\Debug\BuildASnowman.csprojAssemblyReference.cache
+C:\Users\JohnPierson\source\repos\BuildASnowman\obj\Debug\BuildASnowman.csproj.CoreCompileInputs.cache
+C:\Users\JohnPierson\source\repos\BuildASnowman\bin\Debug\BuildASnowman.dll
+C:\Users\JohnPierson\source\repos\BuildASnowman\bin\Debug\BuildASnowman.pdb
+C:\Users\JohnPierson\source\repos\BuildASnowman\obj\Debug\BuildASnowman.dll
+C:\Users\JohnPierson\source\repos\BuildASnowman\obj\Debug\BuildASnowman.pdb
+C:\Users\johnpierson\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\AS319568-L Do You Want To Build An Add-In\Examples\04_BuildASnowman\BuildASnowman\obj\Debug\BuildASnowman.csproj.CoreCompileInputs.cache
+C:\Users\johnpierson\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\AS319568-L Do You Want To Build An Add-In\Examples\04_BuildASnowman\BuildASnowman\obj\Debug\BuildASnowman.dll
+C:\Users\johnpierson\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\AS319568-L Do You Want To Build An Add-In\Examples\04_BuildASnowman\BuildASnowman\obj\Debug\BuildASnowman.pdb
+C:\Users\johnpierson\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\AS319568-L Do You Want To Build An Add-In\Examples\04_BuildASnowman\BuildASnowman\bin\Debug\BuildASnowman.dll
+C:\Users\johnpierson\OneDrive - Parallax Team Inc\AU2019\DoYouWantToBuildAnAddin\AS319568-L Do You Want To Build An Add-In\Examples\04_BuildASnowman\BuildASnowman\bin\Debug\BuildASnowman.pdb

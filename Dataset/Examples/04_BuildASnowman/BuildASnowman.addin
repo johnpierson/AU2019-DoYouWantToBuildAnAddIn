@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command BuildASnowman</Text>
+    <Description>Some description for BuildASnowman</Description>
+    <Assembly>BuildASnowman.dll</Assembly>
+    <FullClassName>BuildASnowman.Command</FullClassName>
+    <ClientId>34bdc7f8-25e6-458d-81ea-d1a7c8ba7def</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+ 
+</RevitAddIns>
